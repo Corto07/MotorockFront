@@ -5,7 +5,6 @@ import Style from "./landing.module.css"
 import imgfondo from "../asset/Fondo2.jpg";
 import { FaTwitter, FaFacebook, FaInstagram, FaTiktok, FaWhatsapp } from 'react-icons/fa';
 
-
 function Landing() {
 
   return (
